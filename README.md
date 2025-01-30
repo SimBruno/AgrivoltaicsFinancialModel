@@ -34,7 +34,7 @@ This repository contains a financial modeling tool designed to evaluate the econ
 
 🚀 Improve energy modeling with pvlib for better yield estimation
 
-🚀 Integrate Net Operating Losses (NOLs) in financial analysis
+🚀 Improve cash flow analysis by including other metrics such as Net Operating Losses, or Change in Working Capital, for the energy systems
 
 ## Contributions & Feedback
 ✏️ Contributions are welcome! Feel free to open an issue or submit a pull request for improvements. For questions or feedback, reach out via GitHub discussions.
