@@ -4,23 +4,31 @@ Agrivoltaics Financial Model
 ## Overview
 This repository contains a financial modeling tool designed to evaluate the economic profitability of agrivoltaics projects from both the solar developer's and farmer's perspectives. The model integrates realistic farming practices and PV system characteristics to assess feasibility, profitability, and optimal design strategies.
 
+## Files
+
+1️⃣ financial_tool_final.ipynb - Main script to run the financial model with customizable parameters (only this file is needed to run the model).
+2️⃣ tradprices_ipynb - Script to clean and process USDA crop price data.
+3️⃣ tradyields_ipynb - Script to clean and process USDA crop yield data.
+4️⃣ externaldataupload.ipynb - Script to create crop datasets.
+
+
 ## Key Features
-✅ Dual-entity financial modeling – Separates financial inputs and outputs for farmers and developers.
+✅ New agrivoltaic financial framework including solar PV and farming perspectives.
 
-✅ General model - Applicable across the U.S. (and out with minro adjustements)
+✅ Iterative structure designed to target profitable agrivoltaic systems.
 
-✅ Partnerships - Different stakeholders’ partnership structures available to develop the projects
+✅ Realistic inclusion of agriculture practices, business partnerships, and tax handling.
 
 ✅ Tax & financial handling – Accounts for tax credit carryover
 
 ✅ Scalable analysis – Supports PV systems ranging from 0.5 MW to 30 MW with various crop types and practices (specialty crops, field crops, crop rotation...).
 
-✅ Crop yield modeling (upcoming) – Simulates agricultural productivity under solar panels based on microclimate and radiation.
+✅ Farm profits depend on land costs; developers benefit from economies of scale.
 
-✅ Enhanced energy modeling (upcoming) – Incorporates pvlib for improved PV system yield estimations.
+✅ Model addresses overestimation of profitability seen in previous methods.
 
 ## Installation
-
+Download or clone the repository to your local machine.
 
 ## Data Sources
 📊 USDA Quick Stats for crop yield and pricing data
