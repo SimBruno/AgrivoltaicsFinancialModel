@@ -7,8 +7,11 @@ This repository contains a financial modeling tool designed to evaluate the econ
 ## Files
 
 1️⃣ financial_tool_final.ipynb - Main script to run the financial model with customizable parameters (only this file is needed to run the model).
+
 2️⃣ tradprices_ipynb - Script to clean and process USDA crop price data.
+
 3️⃣ tradyields_ipynb - Script to clean and process USDA crop yield data.
+
 4️⃣ externaldataupload.ipynb - Script to create crop datasets.
 
 
